@@ -1,0 +1,732 @@
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ", "CodigoANCII": "................ ", "Extencao": "  XXX ", "Nome": " Compucon/Singer embroidery design file"}
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ", "CodigoANCII": " ........................ ", "Extencao": "  PDB ", "Nome": " Palmpilot Database/Document File"}
+00 00 00 00 00 00 00 00 ", "CodigoANCII": "[512 byte offset]........ ", "Extencao": "  RVT ", "Nome": " Revit Project File subheader"}
+00 00 00 0C 6A 50 20 20 0D 0A ", "CodigoANCII": "....jP.. ", "Extencao": "  JP2 ", "Nome": " Various JPEG-2000 image file formats"}
+00 00 00 nn 66 74 79 70 33 67 70 ", "CodigoANCII": "....ftyp 3gp ", "Extencao": "  3GG ", 3GP ", 3G2 ", "Nome": " 3rd Generation Partnership Project 3GPP (nn=0x14) and 3GPP2 (nn=0x20) multimedia files"}
+00 00 00 14 66 74 79 70 69 73 6F 6D ", "CodigoANCII": "....ftyp ", "Extencao": "  MP4 ", "Nome": " ISO Base Media file (MPEG-4) v1"}
+00 00 00 14 66 74 79 70 71 74 20 20 ", "CodigoANCII": "....ftyp ", "Extencao": "  MOV ", "Nome": " QuickTime movie file"}
+00 00 00 18 66 74 79 70 33 67 70 35 ", "CodigoANCII": "....ftyp ", "Extencao": "MP4 ", "Nome": " MPEG-4 video files"}
+00 00 00 18 66 74 79 70 6D 70 34 32 ", "CodigoANCII": "....ftyp ", "Extencao": "  M4V ", "Nome": " MPEG-4 video/QuickTime file"}
+00 00 00 1C 66 74 79 70 4D 53 4E 56 01 29 00 46 4D 53 4E 56 6D 70 34 32 ", "CodigoANCII": "....ftyp.).F ", "Extencao": "  MP4 ", "Nome": " MPEG-4 video file
+00 00 00 20 66 74 79 70 4D 34 41 20 ", "CodigoANCII": "... ftypM4A ", "Extencao": "  M4A ", "Nome": " Apple Lossless Audio Codec file"}
+00 00 01 00 ", "CodigoANCII": ".... ", "Extencao": "  ICO ", "Nome": " Windows icon file ", "Extencao": "  >SPL ", "Nome": " Windows NT/2000/XP printer spool file"}
+00 00 01 Bx ", "CodigoANCII": ".... ", "Extencao": "  MPEG ", MPG ", "Nome": " MPEG video file"}
+00 00 01 BA ", "CodigoANCII": "....º ", "Extencao": "  MPG ", VOB ", "Nome": " DVD Video Movie File (video/dvd ", video/mpeg) or DVD MPEG2"}
+00 00 02 00 ", "CodigoANCII": "......  ", "Extencao": "  CUR ", "Nome": " Windows cursor file ", "Extencao": "  >WB2 ", "Nome": " QuattroPro for Windows Spreadsheet file"}
+00 00 02 00 06 04 06 00 08 00 00 00 00 00 ", "CodigoANCII": ".............. ", "Extencao": "  WK1 ", "Nome": " Lotus 1-2-3 spreadsheet (v1) file"}
+00 00 1A 00 00 10 04 0000 00 00 00 ", "CodigoANCII": "............ ", "Extencao": "  WK3 ", "Nome": " Lotus 1-2-3 spreadsheet (v3) file"}
+00 00 1A 00 02 10 04 00 00 00 00 00 ", "CodigoANCII": "........ .... ", "Extencao": "  WK4 ", WK5 ", "Nome": " Lotus 1-2-3 spreadsheet (v4 ", v5) file"}
+00 00 1A 00 05 10 04", "CodigoANCII": "....... ", "Extencao": "  123 ", "Nome": " Lotus 1-2-3 spreadsheet (v9) file"}
+00 00 49 49 58 50 52  "CodigoANCII": "..IIXPR }
+00 00 4D 4D 58 50 52 ", "CodigoANCII": "..MMXPR ", "Extencao": "  QXD ", "Nome": " Quark Express document (Intel  ; Motorola ", respectively) <b>NOTE:</b> It appears that the byte following the 0x52 ("R") is the language indicator; 0x33 ("3") seems to indicate English and 0x61 ("a") reportedly indicates Korean."}
+00 00 FE FF ", "CodigoANCII": "..þÿ ", "Extencao": "  n/a ", "Nome": " Byte-order mark for 32-bit Unicode Transformation Format/ 4-octet Universal Character Set (UTF-32/UCS-4) ", big-endian files. (See the <a href="http://www.unicode.org/" target="_blank">Unicode Home Page )"}
+00 00 FF FF FF FF ", "CodigoANCII": "..ÿÿÿÿ ", "Extencao": "  HLP ", "Nome": " Windows Help file"}
+00 01 00 00 00 ", "CodigoANCII": "..... ", "Extencao": "  TTF ", "Nome": " TrueType font file"}
+00 01 00 00 4D 53 49 53 41 4D 20 44 61 74 61 62 61 73 65 ", "CodigoANCII": "....MSIS AM Datab ase ", "Extencao": "  MNY ", "Nome": " Microsoft Money file"}
+00 01 00 00 53 74 61 6E 64 61 72 64 20 41 43 45 20 44 42 ", "CodigoANCII": "....Stan dard ACE  DB ", "Extencao": "  ACCDB ", "Nome": " Microsoft Access 2007 file"}
+00 01 00 00 53 74 61 6E 64 61 72 64 20 4A 65 74 20 44 42 ", "CodigoANCII": "....Stan dard Jet  DB ", "Extencao": "  MDB ", "Nome": " Microsoft Access file"}
+00 01 00 08 00 01 00 01 01 ", "CodigoANCII": "......... ", "Extencao": "  IMG ", "Nome": " Ventura Publisher/GEM VDI Image Format Bitmap file"}
+00 01 01 ", "CodigoANCII": "... ", "Extencao": "  FLT ", "Nome": " OpenFlight 3D file"}
+00 01 42 41 ", "CodigoANCII": "..BA ", "Extencao": "  >ABA ", "Nome": " Palm Address Book Archive file"}
+00 01 42 44 ", "CodigoANCII": "..BD ", "Extencao": "  DBA ", "Nome": " Palm DateBook Archive file"}
+00 06 15 61 00 00 00 02 00 00 04 D2 00 00 10 00 ", "CodigoANCII": "...a.... ...Ò.... ", "Extencao": "  DB ", "Nome": " Netscape Navigator (v4) database file"}
+00 0D BB A0 ", "CodigoANCII": "..»  ", "Extencao": "  n/a ", "Nome": " Mbox table of contents file.   The next four bytes appear to be the number of e-mails in the associated  mbox file.)"}
+00 11 AF ", "CodigoANCII": "..¯ ", "Extencao": "  FLI ", "Nome": " FLIC Animation file"}
+00 14 00 00 01 02 xx xx 03 ", "CodigoANCII": "........ . ", "Extencao": "  n/a ", "Nome": " BIOS details in RAM images"}
+00 1E 84 90 00 00 00 00 ", "CodigoANCII": "..„..... ", "Extencao": "  SNM ", "Nome": " Netscape Communicator (v4) mail folder"}
+00 5C 41 B1 FF ", "CodigoANCII": ".\A±ÿ ", "Extencao": "  ENC ", "Nome": " Mujahideen Secrets 2 encrypted file"}
+00 BF ", "CodigoANCII": ".¿ ", "Extencao": "  SOL ", "Nome": " Adobe Flash shared object file (e.g. ", Flash cookies)"}
+ 00 6E 1E F0 ", "CodigoANCII": " .n.ð ", "Extencao": "  PPT ", "Nome": " PowerPoint presentation subheader (MS Office)"}
+00 FF FF FF FF FF FF FF FF FF FF 00 00 02 00 01 ", "CodigoANCII": ".ÿÿÿÿÿÿÿ ÿÿÿ..... ", "Extencao": "  MDF ", "Nome": " Alcohol 120% CD image"}
+01 00 00 00 ", "CodigoANCII": ".... ", "Extencao": "  EMF ", "Nome": " Extended (Enhanced) Windows Metafile Format ", printer spool file (0x18-17  ; 0xC4-36 is Win2K/NT; 0x5C0-1 is WinXP)"}
+01 00 00 00 01 ", "CodigoANCII": "..... ", "Extencao": "  PIC ", "Nome": " Unknown type picture file"}
+01 00 09 00 00 03 ", "CodigoANCII": "...... ", "Extencao": "  WMF ", "Nome": " Windows Metadata file (Win 3.x format)"}
+01 00 39 30 ", "CodigoANCII": "..90 ", "Extencao": "  FDB ", GDB ", "Nome": " Firebird and Interbase database files"}
+01 0F 00 00 ", "CodigoANCII": ".... ", "Extencao": "  MDF ", "Nome": " Microsoft SQL Server 2000 database"}
+01 10 ", "CodigoANCII": ".. ", "Extencao": "  TR1 ", "Nome": " Novell LANalyzer capture file"}
+01 DA 01 01 00 03 ", "CodigoANCII": ".Ú.... ", "Extencao": "  RGB ", "Nome": " Silicon Graphics RGB Bitmap"}
+01 FF 02 04 03 02 ", "CodigoANCII": ".ÿ.... ", "Extencao": "  DRW ", "Nome": " Micrografx vector graphic file"}
+02 64 73 73 ", "CodigoANCII": ".dss ", "Extencao": "  DSS ", "Nome": " Digital Speech Standard (Olympus ", Grundig ",  ; Phillips)"}
+03 ", "CodigoANCII": ". ", "Extencao": "  DAT ", "Nome": " MapInfo Native Data Format ", "Extencao": "  DB3 ", "Nome": " dBASE III file"}
+03 00 00 00 ", "CodigoANCII": ".... ", "Extencao": "  QPH ", "Nome": " Quicken price history file"}
+03 00 00 00 41 50 50 52 ", "CodigoANCII": "....APPR ", "Extencao": "  ADX ", "Nome": " Approach index file"}
+04 ", "CodigoANCII": ". ", "Extencao": "  DB4 ", "Nome": " dBASE IV data file"}
+04 00 00 00 xx xx xx xx xx xx xx xx 20 03 00 00 "Nome": " 
+05 00 00 00 xx xx xx xx xx xx xx xx 20 03 00 00 ", "CodigoANCII": "........ .... ... ", "Extencao": "  n/a ", "Nome": " INFO2 Windows recycle bin "}
+07 ", "CodigoANCII": ". ", "Extencao": "  DRW ", "Nome": " A common signature and file extension for many drawing programs."}
+07 53 4B 46 ", "CodigoANCII": ".SKF ", "Extencao": "  SKF ", "Nome": " SkinCrafter skin file"}
+07 64 74 32 64 64 74 64 ", "CodigoANCII": ".dt2ddtd ", "Extencao": "  DTD ", "Nome": " DesignTools 2D Design file"}
+08 ", "CodigoANCII": ". ", "Extencao": "  DB ", "Nome": " dBASE IV or dBFast configuration file"}
+08 00 45 ", "CodigoANCII": "..E ", "Extencao": "  n/a ", "Nome": " Possibly ", maybe ", might be a fragment of an Ethernet frame carrying an IPv4 packet. See <a href="http://www.garykessler.net/library/netsig.html" target="_blank"> Hints About Looking for Network Packet Fragments "}
+ 09 08 10 00 00 06 05 00 ", "CodigoANCII": " ........ ", "Extencao": "  XLS ", "Nome": " Excel spreadsheet subheader (MS Office)"}
+0A nn 01 01 ", "CodigoANCII": ".... ", "Extencao": "  PCX ", "Nome": " ZSOFT Paintbrush file "}
+0A 16 6F 72 67 2E 62 69 74 63 6F 69 6E 2E 70 72 ", "CodigoANCII": "..org.bi tcoin.pr ", "Extencao": "  WALLET ", "Nome": " MultiBit Bitcoin wallet file"}
+0C ED ", "CodigoANCII": ".í ", "Extencao": "  MP ", "Nome": " Monochrome Picture TIFF bitmap file (unconfirmed)"}
+0D 44 4F 43 ", "CodigoANCII": ".DOC ", "Extencao": "  DOC ", "Nome": " DeskMate Document file"}
+0E 4E 65 72 6F 49 53 4F ", "CodigoANCII": ".NeroISO ", "Extencao": "  NRI ", "Nome": " Nero CD Compilation"}
+0E 57 4B 53 ", "CodigoANCII": ".WKS ", "Extencao": "  WKS ", "Nome": " DeskMate Worksheet"}
+0F 00 E8 03 ", "CodigoANCII": " ..è. ", "Extencao": "  PPT ", "Nome": " PowerPoint presentation subheader (MS Office)"}
+10 00 00 00 ", "CodigoANCII": ".... ", "Extencao": "  CL5 ", "Nome": " Easy CD Creator 5 Layout file"}
+1A 00 00 ", "CodigoANCII": "... ", "Extencao": "  NTF ", "Nome": " Lotus Notes database template"}
+1A 00 00 04 00 00 ", "CodigoANCII": "...... ", "Extencao": "  NSF ", "Nome": " Lotus Notes database"}
+1A 0x ", "CodigoANCII": ".. ", "Extencao": "  ARC ", "Nome": " LH archive file ", old version (where x = 0x2 ", 0x3 ", 0x4 ", 0x8 or 0x9 for types 1-5 ", respectively)"}
+1A 0B ", "CodigoANCII": ".. ", "Extencao": "  PAK ", "Nome": " Compressed archive file (often associated with Quake Engine games)"}
+1A 35 01 00 ", "CodigoANCII": ".5.. ", "Extencao": "  ETH ", "Nome": " GN Nettest WinPharoah capture file"}
+1A 45 DF A3 ", "CodigoANCII": ".Eß£ ", "Extencao": "  WEBM ", "Nome": " WebM video file"}
+1A 45 DF A3 93 42 82 88 6D 61 74 72 6F 73 6B 61 ", "CodigoANCII": ".Eß£“B‚ˆ matroska ", "Extencao": "  MKV ", "Nome": " Matroska stream file"}
+1A 52 54 53 20 43 4F 4D 50 52 45 53 53 45 44 20 49 4D 41 47 45 20 56 31 2E 30 1A ", "CodigoANCII": ".RTS COM PRESSED  IMAGE V1 .0. ", "Extencao": "  DAT ", "Nome": " Runtime Software compressed disk image"}
+1D 7D ", ", "CodigoANCII": ".} ", "Extencao": "  WS ", "Nome": " WordStar Version 5.0/6.0 document"}
+1F 8B 08 ", "CodigoANCII": ".‹. ", "Extencao": "  GZ ", TGZ ", "Nome": " GZIP archive file ", "Extencao": "  >VLT ", "Nome": " VLC Player Skin file"}
+1F 9D ", "CodigoANCII": ".. ", "Extencao": "  TAR.Z ", "Nome": " Compressed tape archive file using standard (Lempel-Ziv-Welch) compression"}
+1F A0 ", "CodigoANCII": ".  ", "Extencao": "  TAR.Z ", "Nome": "Compressed tape archive file using LZH (Lempel-Ziv-Huffman) compression"}
+21 ", "CodigoANCII": "! ", "Extencao": "  BSB ", "Nome": " MapInfo Sea Chart"}
+21 12 ", "CodigoANCII": "!. ", "Extencao": "  AIN ", "Nome": " AIN Compressed Archive"}
+21 3C 61 72 63 68 3E 0A ", "CodigoANCII": ""Extencao": "  LIB ", "Nome": " Unix archiver (ar) files and Microsoft Program Library Common Object File Format (COFF)"}
+21 42 44 4E ", "CodigoANCII": "!BDN ", "Extencao": "  OST ", "Nome": " Microsoft Outlook Exchange Offline Storage Folder File", "Extencao": "  >PST ", "Nome": " Microsoft Outlook Exchange Personal Folder File"}
+23 20 ", "CodigoANCII": "# ", "Extencao": "  MSI ", "Nome": " Cerius2 file"}
+23 20 44 69 73 6B 20 44 65 73 63 72 69 70 74 6F ", "CodigoANCII": "# Disk D escripto ", "Extencao": "  VMDK ", "Nome": " VMware 4 Virtual Disk description file (split disk)"}
+23 20 4D 69 63 72 6F 73 6F 66 74 20 44 65 76 65 6C 6F 70 65 72 20 53 74 75 64 69 6F ", "CodigoANCII": "# Micros oft Deve loper St udio ", "Extencao": "  DSP ", "Nome": " Microsoft Developer Studio project file"}
+23 21 41 4D 52 ", "CodigoANCII": "#!AMR ", "Extencao": "  AMR ", "Nome": " Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction) Codec ", commonly audio format with GSM cell phones RFC 4867"}
+23 3F 52 41 44 49 41 4E 43 45 0A ", "CodigoANCII": "#?RADIAN CE. ", "Extencao": "  HDR ", "Nome": " Radiance High Dynamic Range image file"}
+23 50 45 43 30 30 30 31 4C 41 3A ", "CodigoANCII": "#PEC0001 LA: ", "Extencao": "  PEC ", "Nome": " Brother/Babylock/Bernina Home Embroidery file"}
+23 50 45 53 30 ", "CodigoANCII": "#PES0 ", "Extencao": "  PES ", "Nome": " Brother/Babylock/Bernina Home Embroidery file"}
+24 46 4C 32 40 28 23 29 20 53 50 53 53 20 44 41 54 41 20 46 49 4C 45 ", "CodigoANCII": "$FL2@(#)   SPSS DA TA FILE ", "Extencao": "  SAV ", "Nome": " SPSS Data file"}
+25 21 50 53 2D 41 64 6F 62 65 2D 33 2E 30 20 45 50 53 46 2D 33 20 30 ", "CodigoANCII": "%!PS-Ado be-3.0 E PSF-3.0 ", "Extencao": "  EPS ", "Nome": " Adobe encapsulated PostScript file (If this signature is not at the immediate beginning of the file , it will occur early in the file , commonly at byte offset 30)"}
+25 50 44 46 ", "CodigoANCII": "%PDF ", "Extencao": "  PDF ", FDF ", "Nome": " Adobe Portable Document Format and Forms Document file"} 
+0A 25 25 45 4F 46", "CodigoANCII" : " "%%EOF"}
+0A 25 25 45 4F 46 0A", "CodigoANCII" : " %%EOF"}
+0D 0A 25 25 45 4F 46 0D 0A", "CodigoANCII" : "..%%EOF.."}
+0D 25 25 45 4F 46 0D", "CodigoANCII" : ".%%EOF", "Nota" : "There may be multiple end-of-file marks within the file. When carving ", be sure to get the last one."}
+25 62 69 74 6D 61 70 ", "CodigoANCII": "%bitmap ", "Extencao": "  FBM ", "Nome": " Fuzzy bitmap (FBM) file"}
+28 54 68 69 73 20 66 69 6C 65 20 6D 75 73 74 20 62 65 20 63 6F 6E 76 65 72 74 65 64 20 77 69 74 68 20 42 69 6E 48 65 78 20 ", "CodigoANCII": "(This fi le must  be conve rted wit h BinHex   ", "Extencao": "  HQX ", "Nome": " Macintosh BinHex 4 Compressed Archive"}
+2A 2A 2A 20 20 49 6E 73 74 61 6C 6C 61 74 69 6F 6E 20 53 74 61 72 74 65 64 20 ", "CodigoANCII": "***  Ins tallatio n Starte d ", "Extencao": "  LOG ", "Nome": " Symantec Wise Installer log file"}
+2D 6C 68", "Extencao": "  LHA ", LZH ", "Nome": " Compressed archive file"}
+2E 52 45 43 ", "CodigoANCII": ".REC", "Extencao":   IVR ", "Nome": " RealPlayer video file (V11 and later)"}
+2E 52 4D 46 ", "CodigoANCII": ".RMF, "Extencao":   RM ", RMVB ", "Nome": " RealMedia streaming media file"}
+2E 52 4D 46 00 00 00 12 00 ", "CodigoANCII": ".RMF.... .", "Extencao":   RA ", "Nome": " RealAudio file"}
+2E 72 61 FD 00 ", "CodigoANCII": ".raý. ", "Extencao": "  RA ", "Nome": " RealAudio streaming media file"}
+2E 73 6E 64 ", "CodigoANCII": ".snd ", "Extencao": "  AU ", "Nome": " NeXT/Sun Microsystems µ-Law audio file"}
+2F 2F 20 3C 21 2D 2D 20 3C 6D 64 62 3A 6D 6F 72 6B 3A 7A ", "CodigoANCII": "/mdb:mor k:z ", "Extencao": "  MSF ", "Nome": " Thunderbird|Mozilla Mail Summary File"}
+30 ", "CodigoANCII": "0 ", "Extencao": "  CAT ", "Nome": " Microsoft security catalog file"}
+30 00 00 00 4C 66 4C 65 ", "CodigoANCII": "0...LfLe ", "Extencao": "  EVT ", "Nome": " Windows Event Viewer file"}
+30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C ", "CodigoANCII": "0 ;²u.fÏ. ¦Ù.ª.bÎl ", "Extencao": "  ASF ", WMA ", WMV ", "Nome": " Microsoft Windows Media Audio/Video File Advanced Systems Format"}
+30 31 4F 52 44 4E 41 4E 43 45 20 53 55 52 56 45 59 20 20 20 20 20 20 20 ", "CodigoANCII": "01ORDNAN CE SURVE Y        ", "Extencao": "  NTF ", "Nome": " National Transfer Format Map File"}
+30 37 30 37 30 nn ", "CodigoANCII": "07070. ", "Extencao": "  n/a ", "Nome": " Archive created with the cpio utility values 0x37 (7) , 0x31 (1) , and 0x32 (2) refer to the standard ASCII format , new ASCII (aka SVR4) format , and CRC format , respectively.  swpackage(8)page has additional information.)
+31 BE  "Nome": " "}
+32 BE ", "CodigoANCII": "2¾ ", "Extencao": "WRI ", "Nome": " Microsoft Write file"}
+32 03 10 00 00 00 00 00 00 00 80 00 00 00 FF 00 ", "CodigoANCII": "2....... ......ÿ. ", "Extencao": "  PCS ", "Nome": " Pfaff Home Embroidery file"}
+34 CD B2 A1 ", "CodigoANCII": "4Í²¡ ", "Extencao": "  n/a ", "Nome": " Extended tcpdump (libpcap) capture file (Linux/Unix)"}
+37 7A BC AF 27 1C ", "CodigoANCII": "7z¼¯'. ", "Extencao": "  7Z ", "Nome": " 7-Zip compressed file"}
+37 E4 53 96 C9 DB D6 07 ", "CodigoANCII": "7äS–ÛÖ. ", "Extencao": "  n/a ", "Nome": " zisofs compression format ", recognized by some Linux kernels."}
+38 42 50 53 ", "CodigoANCII": "8BPS ", "Extencao": "  PSD ", "Nome": " Photoshop image file"}
+3A 56 45 52 53 49 4F 4E ", "CodigoANCII": ":VERSION ", "Extencao": "  SLE ", "Nome": " Surfplan kite project file"}
+3C ", "CodigoANCII": "  ", "Extencao": "  ASX", "Nome":  Advanced Stream redirector file ", "Extencao": "  >XDR ", "Nome": " BizTalk XML-Data Reduced Schema file"}
+3C 21 64 6F 63 74 79 70 ", "CodigoANCII": " !doctyp ", "Extencao": "  DCI ", "Nome": " AOL HTML mail file"}
+3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D ", "CodigoANCII": " ?xml version= ", "Extencao": "  MANIFEST ", "Nome": " Windows Visual Stylesheet XML file"}
+3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 3F 3E ", "CodigoANCII": " ?xml ve rsion="1 .0 ", "Extencao": "  XUL ", "Nome": " XML User Interface Language file"}
+3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 3F 3E 0D 0A 3C 4D 4D 43 5F 43 6F 6E 73 6F 6C 65 46 69 6C 65 20 43 6F 6E 73 6F 6C 65 56 65 72 73 69 6F 6E 3D 22 ", "CodigoANCII": " ?xml ve rsion="1 .0"? ..  MMC_Cons oleFile  ConsoleV ersion=" ", "Extencao": "  MSC ", "Nome": " Microsoft Management Console Snap-in Control file"}
+3C 43 73 6F 75 6E 64 53 79 6E 74 68 65 73 69 7A ", "CodigoANCII": " CsoundS ynthesiz ", "Extencao": "  CSD ", "Nome": " Csound music file"}
+3C 4D 61 6B 65 72 46 69 6C 65 20 ", "CodigoANCII": " MakerFi le ", "Extencao": "  FM ", MIF ", "Nome": " Adobe FrameMaker file"}
+3C 7E 36 3C 5C 25 5F 30 67 53 71 68 3B ", "CodigoANCII": " ~6 \%_0 gSqh; ", "Extencao": "  B85 ", "Nome": "ASCII85 (aka BASE85) encoded file ", sometimes used with PostScript and PDF. "}
+[24 byte offset] 3E 00 03 00 FE FF 09 00 06 ", "CodigoANCII": "[24 byte offset]  ...þÿ.. . ", "Extencao": "  WB3 ", "Nome": " Quatro Pro for Windows 7.0 Notebook file"}
+3F 5F 03 00 ", "CodigoANCII": "?_.. ", "Extencao": "  GID ", "Nome": " Windows Help index file ", "Extencao": "  >HLP ", "Nome": " Windows Help file"}
+40 40 40 20 00 00 40 40 40 40 ", "CodigoANCII": "[32 byte offset] @@@ ..@@ @@ ", "Extencao": "  ENL ", "Nome": " EndNote Library File"}
+41 43 31 30 ", "CodigoANCII": "AC10 ", "Extencao": "  DWG ", "Nome": " Generic AutoCAD drawing"}
+41 43 76", "Extencao":   ACL ", "Extencao": "  SLE ", "Nome": " Steganos Security Suite virtual secure drive"}
+41 43 53 44 ", "CodigoANCII": "ACSD ", "Extencao": "  n/a ", "Nome": " Miscellaneous AOL parameter and information files"}
+41 45 53 ", "CodigoANCII": "AES ", "Extencao": "  AES ", "Nome": "AES Crypt file format. (The fourth byte is the version number.)"}
+41 4D 59 4F ", "CodigoANCII": "AMYO ", "Extencao": "  SYW", "Nome":  Harvard Graphics symbol graphic"}
+41 4F 4C 20 46 65 65 64 62 61 67 ", "CodigoANCII": "AOL Feed bag ", "Extencao": "  BAG ", "Nome": " AOL and AIM buddy list file"}
+41 4F 4C 44 42 ", "CodigoANCII": "AOLDB ", "Extencao": "  ABY ", IDX ", "Nome": " AOL database files: "address book (ABY) and user configuration data (MAIN.IDX)"}
+41 4F 4C 49 44 58 ", "CodigoANCII": "AOLIDX ", "Extencao": "  IND", "Nome":  AOL client preferences/settings file (MAIN.IND)"}
+41 4F 4C 49 4E 44 45 58 ", "CodigoANCII": "AOLINDEX ", "Extencao": "  ABI ", "Nome": " AOL address book index file"}
+41 4F 4C 56 4D 31 30 30 ", "CodigoANCII": "AOLVM100 ", "Extencao": "  ORG ", PFC ", "Nome": " AOL personal file cabinet (PFC) file"}
+41 56 47 36 5F 49 6E 74 65 67 72 69 74 79 5F 44 61 74 61 62 61 73 65 ", "CodigoANCII": "AVG6_Int egrity_D atabase ", "Extencao": "  DAT ", "Nome": " AVG6 Integrity database file"}
+41 72 43 01 ", "CodigoANCII": "ArC. ", "Extencao": "  ARC ", "Nome": " FreeArc compressed file"}
+42 41 41 44 ", "CodigoANCII": "BAAD ", "Extencao": "  n/a ", "Nome": " NTFS Master File Table (MFT) entry (1 ",024 bytes)"}
+42 45 47 49 4E 3A 56 43 41 52 44 0D 0A ", "CodigoANCII": "BEGIN:VC ARD..", "Extencao":   VCF ", "Nome": " vCard file"}
+42 4C 49 32 32 33", "Nome": "BLI223 ", "Extencao": "  BLI ", RBI ", "Nome": " Thomson Speedtouch series WLAN router firmware"}
+42 4D ", "CodigoANCII": "BM ", "Extencao": "  BMP ", DIB ", "Nome": " Windows (or device-independent) bitmap image Bytes 2-5 contain the file length in little-endian order."}
+42 4F 4F 4B 4D 4F 42 49 ", "CodigoANCII": "BOOKMOBI ", "Extencao": "  PRC ", "Nome": " Palmpilot resource file"}
+42 5A 68 ", "CodigoANCII": "BZh ", "Extencao": "  BZ2 ", TAR.BZ2 ", TBZ2 ", TB2 ", "Nome": "bzip2 compressed archive"}
+42 65 67 69 6E 20 50 75 66 66 65 72 20 44 61 74 61 0D 0A ", "CodigoANCII": "Begin Pu ffer Dat a.. ", "Extencao": "  APUF ", "Nome": "Puffer ASCII-armored encrypted archive"}
+42 6C 69 6E 6B 20 62 79 20 44 2E 54 2E 53 ", "CodigoANCII": "Blink by  D.T.S ", "Extencao": "  BLI ", "Nome": " BLINK compressed archive"}
+43 23 2B 44 A4 43 4D A5 48 64 72 ", "CodigoANCII": "C#+D¤CM¥ Hdr ", "Extencao": "  RTD ", "Nome": " RagTime document file"}
+43 42 46 49 4C 45 ", "CodigoANCII": "CBFILE ", "Extencao": "  CBD ", "Nome": " WordPerfect dictionary file (unconfirmed)"}
+43 44 30 30 31 ", "CodigoANCII": "CD001 ", "Extencao": "  ISO ", "Nome": " ISO-9660 CD Disc Image This signature usually occurs at byte offset 32769 (0x8001) ", 34817 (0x8801) ", or 36865 (0x9001). More information can be found at <a href="http://www.mactech.com/articles/develop/issue_03/high_sierra.html" target+"_blank"="">MacTech  or at <a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-119.pdf" target="_blank"> ECMA "}
+43 49 53 4F ", "CodigoANCII": "CISO ", "Extencao": "  CSO ", "Nome": " Compressed ISO (CISO) CD image"}
+
+43 4D 58 31 ", "CodigoANCII": "CMX1 ", "Extencao": "  CLB ", "Nome": " Corel Binary metafile"}
+
+43 4D 4D 4D 15 00 00 00 ", "CodigoANCII": "CMMM.... ", "Extencao": "  DB ", "Nome": " Windows 7 thumbcache_sr.db or other thumbcache file (except thumbcache_idx.db)"}
+
+43 4F 4D 2B ", "CodigoANCII": "COM+ ", "Extencao": "  CLB ", "Nome": " COM+ Catalog file"}
+
+43 4F 57 44 ", "CodigoANCII": "COWD ", "Extencao": "  VMDK ", "Nome": " VMware 3 Virtual Disk (portion of a split disk) file"}
+
+43 50 54 37 46 49 4C 45 ", "CodigoANCII": "CPT7FILE ", "Extencao": "  CPT ", "Nome": " Corel Photopaint file"}
+
+43 50 54 46 49 4C 45 ", "CodigoANCII": "CPTFILE ", "Extencao": "  CPT ", "Nome": " Corel Photopaint file"}
+
+43 52 45 47 ", "CodigoANCII": "CREG ", "Extencao": "  DAT ", "Nome": " Windows 9x registry hive"}
+
+43 52 55 53 48 20 76 ", "CodigoANCII": "CRUSH v ", "Extencao": "  CRU ", "Nome": " Crush compressed archive"}
+
+43 57 53 ", "CodigoANCII": "CWS ", "Extencao": "  SWF ", "Nome": " Macromedia Shockwave Flash player file (zlib compressed , SWF 6 and later). SWF File Format Specification."}
+
+43 61 6C 63 75 6C 75 78 20 49 6E 64 6F 6F 72 20 ", "CodigoANCII": "Calculux  Indoor ", "Extencao": "  CIN ", "Nome": " Calculux Indoor lighting design software project file"}
+
+43 61 74 61 6C 6F 67 20 33 2E 30 30 00 ", "CodigoANCII": "Catalog  3.00. ", "Extencao": "  CTF ", "Nome": " WhereIsIt Catalog file"}
+
+43 6C 69 65 6E 74 20 55 72 6C 43 61 63 68 65 20 4D 4D 46 20 56 65 72 20 ", "CodigoANCII": "Client U rlCache  MMF Ver ", "Extencao": "  DAT ", "Nome": " Microsoft Internet Explorer cache file index.dat file"}
+
+44 41 58 00 ", "CodigoANCII": "DAX. ", "Extencao": "  DAX ", "Nome": " DAX Compressed CD image"}
+
+44 42 46 48 ", "CodigoANCII": "DBFH ", "Extencao": "  DB ", "Nome": " Palm Zire photo database"}
+
+44 4D 53 21 ", "CodigoANCII": "DMS! ", "Extencao": "  DMS ", "Nome": " Amiga DiskMasher compressed archive"}
+
+44 4F 53 ", "CodigoANCII": "DOS ", "Extencao": "  ADF ", "Nome": " Amiga disk file"}
+
+44 53 54 62 ", "CodigoANCII": "DSTb ", "Extencao": "  DST ", "Nome": " DST compressed file"}
+
+44 56 44 ", "CodigoANCII": "DVD ", "Extencao": "  DVR ", "Nome": " DVR-Studio stream file ", "Extencao": "  IFO ", "Nome": " DVD info file"}
+
+45 4C 49 54 45 20 43 6F 6D 6D 61 6E 64 65 72 20 ", "CodigoANCII": "ELITE Co mmander ", "Extencao": "  CDR ", "Nome": " Elite Plus Commander saved game file"}
+
+45 4E 54 52 59 56 43 44 02 00 00 01 02 00 18 58 ", "CodigoANCII": "ENTRYVCD .......X ", "Extencao": "  VCD ", "Nome": " VideoVCD (GNU VCDImager) file"}
+
+45 52 46 53 53 41 56 45 44 41 54 41 46 49 4C 45 ", "CodigoANCII": "ERFSSAVE DATAFILE ", "Extencao": "  DAT ", "Nome": " Kroll EasyRecovery Saved Recovery State file"}
+
+45 50", "Nome": "EP ", "Extencao": "  MDI ", "Nome": " Microsoft Document Imaging file"}
+
+45 56 46 09 0D 0A FF 00 ", "CodigoANCII": "EVF...ÿ. ", "Extencao": "  E nn (where nn are numbers) ", "Nome": " Expert Witness Compression Format (EWF) file ", including EWF-E01 and EWF-S01 ", as used in EnCase and SMART evidence files.EWF specification "}
+
+45 56 46 32 0D 0A 81 ", "CodigoANCII": "EVF2... ", "Extencao": "  Ex nn (where  nn are numbers) ", "Nome": " EnCase® Evidence File Format Version 2 (Ex01) document "}
+
+45 6C 66 46 69 6C 65 00 ", "CodigoANCII": "ElfFile. ", "Extencao": "  EVTX ", "Nome": " Windows Vista event log file"}
+
+45 86 00 00 06 00 ", "CodigoANCII": "E†.... ", "Extencao": "  QBB ", "Nome": " Intuit QuickBooks backup file"}
+
+46 41 58 43 4F 56 45 52 2D 56 45 52  ", "CodigoANCII": "FAXCOVER -VER ", "Extencao": "  CPE ", "Nome": " Microsoft Fax Cover Sheet"}
+
+46 44 42 48 00 ", "CodigoANCII": "FDBH. ", "Extencao": "  FDB ", "Nome": " Fiasco database definition file"}
+
+46 45 44 46 ", "CodigoANCII": "FEDF", "Extencao":   SBV ", "Nome": " (Unknown file type)"}
+
+46 49 4C 45 ", "CodigoANCII": "FILE ", "Extencao": "  n/a ", "Nome": " NTFS Master File Table (MFT) entry (1 ",024 bytes)"}
+
+46 4C 56 01 ", "CodigoANCII": "FLV. ", "Extencao": "  FLV ", "Nome": " Flash video file"}
+
+46 4F 52 4D 00 ", "CodigoANCII": "FORM. ", "Extencao": "  AIFF ", "Nome": " Audio Interchange File ", "Extencao": "  >DAX ", "Nome": " DAKX Compressed Audio"}
+
+46 57 53 ", "CodigoANCII": "FWS ", "Extencao": "  SWF ", "Nome": " Macromedia Shockwave Flash player file (uncompressed). SWF File Format Specification "}
+
+46 72 6F 6D 20 20 20  "Nome": " "} 
+
+46 72 6F 6D 20 3F 3F 3F  "Nome": " "}
+
+46 72 6F 6D 3A 20 ", "CodigoANCII": "From: ", "Extencao": "  EML ", "Nome": " A commmon file extension for e-mail files. Signatures shown here are for Netscape ", Eudora ", and a generic signature ", respectively. EML is also used by Outlook Express and QuickMail."}
+
+47 ", "CodigoANCII": "G ", "Extencao": "  TS ", TSA ", TSV ", "Nome": "MPEG transport stream file. (This is not a lot to go on ", but MPEG-2 Part 1 Transport (MP2T) files are reportedly broken into 188-byte packets and the 0x47 byte is the sync byte ", so should repeat every 188 bytes in the file.)"}
+
+47 46 31 50 41 54 43 48 ", "CodigoANCII": "GF1PATCH ", "Extencao": "  PAT ", "Nome": " Advanced Gravis Ultrasound patch file"}
+
+47 49 46 38 37 61  "Nome": "GIF87a"}
+
+47 49 46 38 39 61 ", "CodigoANCII": "GIF89a ", "Extencao": "  GIF", "Nome":  Graphics interchange format file"}
+
+47 50 41 54 ", "CodigoANCII": "GPAT ", "Extencao": "  PAT ", "Nome": " GIMP (GNU Image Manipulation Program) pattern file"}
+
+47 58 32 ", "CodigoANCII": "GX2 ", "Extencao": "  GX2 ", "Nome": " Show Partner graphics file (not confirmed)"}
+
+47 65 6E 65 74 65 63 20 4F 6D 6E 69 63 61 73 74 ", "CodigoANCII": "Genetec  Omnicast ", "Extencao": "  G64 ", "Nome": " Genetec video archive"}
+
+48 45 41 44 45 52 20 52 45 43 4F 52 44 2A 2A 2A ", "CodigoANCII": "HEADER R ECORD*** ", "Extencao": "  XPT ", "Nome": " SAS Transport dataset file format"}
+
+48 48 47 42 31 ", "CodigoANCII": "HHGB1 ", "Extencao": "  SH3 ", "Nome": " Harvard Graphics presentation file"}
+
+49 20 49 ", "CodigoANCII": "I I ", "Extencao": "  TIF ", TIFF ", "Nome": " Tagged Image File Format file"}
+
+49 44 33 ", "CodigoANCII": "ID3 ", "Extencao": "  MP3 ", "Nome": " MPEG-1 Audio Layer 3 (MP3) audio file"}
+
+49 44 33 03 00 00 00 ", "CodigoANCII": "ID3.... ", "Extencao": "  KOZ ", "Nome": " Sprint Music Store audio file (for mobile devices)"}
+
+49 49 1A 00 00 00 48 45 41 50 43 43 44 52 02 00 ", "CodigoANCII": "II....HE APCCDR.. ", "Extencao": "  CRW ", "Nome": "Canon digital camera RAW file "}
+
+49 49 2A 00 ", "CodigoANCII": "II*. ", "Extencao": "  TIF ", TIFF ", "Nome": " Tagged Image File Format file (little endian ", i.e. ", LSB first in the byte; Intel)"}
+
+49 49 2A 00 10 00 00 00 43 52 ", "CodigoANCII": "II*..... CR ", "Extencao": "  CR2 ", "Nome": " Canon digital camera RAW file"}
+
+49 4D 4D 4D 15 00 00 00 ", "CodigoANCII": "CMMM.... ", "Extencao": "  DB ", "Nome": " Windows 7 thumbcache_idx.db file"}
+
+49 53 63 28 ", "CodigoANCII": "ISc( ", "Extencao": "  CAB ", HDR ", "Nome": " Install Shield v5.x or 6.x compressed file"}
+
+49 54 4F 4C 49 54 4C 53 ", "CodigoANCII": "ITOLITLS ", "Extencao": "  LIT ", "Nome": " Microsoft Reader eBook file"}
+
+49 54 53 46 ", "CodigoANCII": "ITSF ", "Extencao": "  CHI ", CHM ", "Nome": " Microsoft Compiled HTML Help File"}
+
+49 6E 6E 6F 20 53 65 74 75 70 20 55 6E 69 6E 73 74 61 6C 6C 20 4C 6F 67 20 28 62 29 ", "CodigoANCII": "Inno Set up Unins tall Log   (b) ", "Extencao": "  DAT ", "Nome": " Inno Setup Uninstall Log file"}
+
+49 6E 74 65 72 40 63 74 69 76 65 20 50 61 67 65 ", "CodigoANCII": "Inter@ct ive Page ", "Extencao": "  IPD ", "Nome": " Inter@ctive Pager Backup (BlackBerry) backup fileIPD File Format  and  IPD File for BlackBerry"}
+
+4A 41 52 43 53 00 ", "CodigoANCII": "JARCS. ", "Extencao": "  JAR ", "Nome": " JARCS compressed archive"}
+
+4A 47 03 0E  "Nome": "JG.."}
+
+4A 47 04 0E ", "CodigoANCII": "JG.. ", "Extencao": "  ART ", "Nome": " AOL ART file"} 
+
+4B 44 4D ", "CodigoANCII": "KDM ", "Extencao": "  VMDK ", "Nome": " VMware 4 Virtual Disk (portion of a split disk) file"}
+
+4B 44 4D 56 ", "CodigoANCII": "KDMV ", "Extencao": "  VMDK", "Nome":  VMware 4 Virtual Disk (monolitic disk) file"}
+
+4B 47 42 5F 61 72 63 68 20 2D ", "CodigoANCII": "KGB_arch  - ", "Extencao": "  KGB", "Nome":  KGB archive"}
+
+4B 49 00 00 ", "CodigoANCII": "KI.. ", "Extencao": "  SHD ", "Nome": " Windows 9x printer spool file
+
+4B 57 41 4A 88 F0 27 D1 ", "CodigoANCII": "KWAJˆð'Ñ ", "Extencao": "  n/a ", "Nome": " KWAJ file format used by DOS COMPRESS.EXE  and EXPAND.EXE commands. This command compresses a single file ", replacing the last character in the file name with an underscore or dollar sign ", e.g. ", "FOO.BAZ would be renamed FOO.BA_  or FOO.BA$"}
+
+4C 00 00 00 01 14 02 00 ", "CodigoANCII": "L....... ", "Extencao": "  LNK", "Nome": "Windows shell link (shortcut) "}
+
+4C 01 ", "CodigoANCII": "L. ", "Extencao": "  OBJ ", "Nome": " Microsoft Common Object File Format (COFF)"}
+
+4C 41 3A ", "CodigoANCII": "LA: ", "Extencao": "  DST ", "Nome": " Tajima embroidery sticj image file"}
+
+4C 4E 02 00 ", "CodigoANCII": "LN.. ", "Extencao": "  GID ", "Nome": " Windows Help index file ", "Extencao": "  >HLP ", "Nome": " Windows Help file. "}
+
+4C 56 46 09 0D 0A FF 00 ", "CodigoANCII": "LVF...ÿ. ", "Extencao": "  E nn (where  nn are numbers) ", "Nome": " Logical File Evidence Format (EWF-L01) as used in later versions of EnCase evidence files. EWF specification "}
+
+4D 2D 57 20 50 6F 63 6B 65 74 20 44 69 63 74 69 ", "CodigoANCII": "M-W Pock et Dicti ", "Extencao": "  PDB ", "Nome": " Merriam-Webster Pocket Dictionary file"}
+
+4D 41 52 31 00 ", "CodigoANCII": "MAR1. ", "Extencao": "  MAR ", "Nome": " Mozilla archive"}
+
+4D 41 52 43 ", "CodigoANCII": "MARC", "Extencao":   MAR ", "Nome": " Microsoft/MSN MARC archive"}
+
+4D 41 72 30 00 ", "CodigoANCII": "MAr0. ", "Extencao": "  MAR ", "Nome": " MAr compressed archive"}
+
+4D 43 57 20 54 65 63 68 6E 6F 67 6F 6C 69 65 73 ", "CodigoANCII": "MCW Tech nogolies ", "Extencao": "  MTE ", "Nome": " TargetExpress target file"}
+
+4D 44 4D 50 93 A7 ", "CodigoANCII": "MDMP“§ ", "Extencao": "  HDMP ", "Nome": " Windows heap dump file ", "Extencao": "  >DMP ", "Nome": " Windows minidump file"}
+
+4D 49 4C 45 53 ", "CodigoANCII": "MILES ", "Extencao": "  MLS ", "Nome": " Milestones v1.0 project management and scheduling software (Also see "MV2C" and "MV214" signatures)"}
+
+4D 4C 53 57", "Nome": "MLSW ", "Extencao": "  MLS ", "Nome": " Skype localization data file"}
+
+4D 4D 00 2A ", "CodigoANCII": "MM.* ", "Extencao": "  TIF ", TIFF ", "Nome": " Tagged Image File Format file (big endian ", i.e. ", LSB last in the byte; Motorola)"}
+
+4D 4D 00 2B ", "CodigoANCII": "MM.+ ", "Extencao": "  TIF ", TIFF ", "Nome": " BigTIFF files; Tagged Image File Format files  4 GB"}
+
+4D 4D 4D 44 00 00 ", "CodigoANCII": "MMMD.. ", "Extencao": "  MMF ", "Nome": " Yamaha Corp. Synthetic music Mobile Application Format (SMAF) for multimedia files that can be played on hand-held devices."}
+
+4D 52 56 4E ", "CodigoANCII": "MRVN ", "Extencao": "  NVRAM ", "Nome": " VMware BIOS (non-volatile RAM) state file."}
+
+4D 53 43 46 ", "CodigoANCII": "MSCF ", "Extencao": "  CAB ", "Nome": " Microsoft cabinet file ", "Extencao": "  >PPZ ", "Nome": " Powerpoint Packaged Presentation ", "Extencao": "  >SNP ", "Nome": " Microsoft Access Snapshot Viewer file"}
+
+4D 53 46 54 02 00 01 00 ", "CodigoANCII": "MSFT.... ", "Extencao": "  TLB ", "Nome": " OLE ", SPSS ", or Visual C++ type library file"}
+
+4D 53 57 49 4D ", "CodigoANCII": "MSWIM ", "Extencao": "  WIM ", "Nome": " Microsoft Windows Imaging Format file"}
+
+4D 53 5F 56 4F 49 43 45 ", "CodigoANCII": "MS_VOICE ", "Extencao": "  CDR ", DVF ", "Nome": " Sony Compressed Voice File ", "Extencao": "  MSV ", "Nome": " Sony Memory Stick Compressed Voice file"}
+
+4D 54 68 64 ", "CodigoANCII": "MThd ", "Extencao": "  MID ", MIDI ", "Nome": " Musical Instrument Digital Interface (MIDI) sound file", " PCS ", "Nome": " Yamaha Piano sound file"}
+
+4D 56 ", "CodigoANCII": "MV ", "Extencao": "  DSN ", "Nome": " CD Stomper Pro label file"}
+
+4D 56 32 31 34 ", "CodigoANCII": "MV214 ", "Extencao": "  MLS ", "Nome": " Milestones v2.1b project management and scheduling software (Also see "MILES" and "MV2C" signatures)"}
+
+4D 56 32 43 ", "CodigoANCII": "MV2C ", "Extencao": "  MLS ", "Nome": " Milestones v2.1a project management and scheduling software (Also see "MILES" and "MV214" signatures)"}
+
+4D 5A ", "CodigoANCII": "MZ ", "Extencao": "  COM ", DLL ", DRV ", EXE ", PIF ", QTS ", QTX ", SYS ", "Nome": " Windows/DOS executable file The MZ EXE File Format  page for the structure of an EXE file ", with coverage of NE ", TLINK ", PE ", self-extracting archives ", and more.) MZ are the initals of Mark Zbikowski ", designer of the DOS executable file format. ", "Extencao": "  >ACM ", "Nome": " MS audio compression manager driver ", "Extencao": "  >AX ", "Nome": " Library cache file ", "Extencao": "  >CPL ", "Nome": " Control panel application ", "Extencao": "  >FON ", "Nome": " Font file", "OCX ", "Nome": " ActiveX or OLE Custom Control ", "Extencao": "  >OLB ", "Nome": " OLE object library ", "Extencao": "  >SCR ", "Nome": " Screen saver ", "Extencao": "  >VBX ", "Nome": " VisualBASIC application ", "Extencao": "  >VXD ", 386 ", "Nome": " Windows virtual device drivers"}
+
+4D 5A 90 00 03 00 00 00 ", "CodigoANCII": "MZ...... ", "Extencao": "  API ", "Nome": " Acrobat plug-in ", "Extencao": "  >AX ", "Nome": " DirectShow filter ", "Extencao": "  >FLT ", "Nome": " Audition graphic filter file (Adobe)"}
+
+4D 5A 90 00 03 00 00 00 04 00 00 00 FF FF ", "CodigoANCII": "MZ...... ....ÿÿ ", "Extencao": "  ZAP ", "Nome": " ZoneAlam data file"}
+
+4D 69 63 72 6F 73 6F 66 74 20 43 2F 43 2B 2B 20 ", "CodigoANCII": "Microsof t C/C++ ", "Extencao": "  PDB ", "Nome": " Microsoft C++ debugging symbols file"}
+
+4D 69 63 72 6F 73 6F 66 74 20 56 69 73 75 61 6C 20 53 74 75 64 69 6F 20 53 6F 6C 75 74 69 6F 6E 20 46 69 6C 65 ", "CodigoANCII": "Microsof t Visual   Studio  Solution   File ", "Extencao": "  SLN ", "Nome": " Visual Studio .NET Solution file"}
+
+[84 byte offset] 4D 69 63 72 6F 73 6F 66 74 20 57 69 6E 64 6F 77 73 20 4D 65 64 69 61 20 50 6C 61 79 65 72 20 2D 2D 20 ", "CodigoANCII": "[84 byte offset] Microsof t Window s Media  Player - - ", "Extencao": "  WPL", "Nome":  Windows Media Player playlist"}
+
+4D 73 52 63 66 ", "CodigoANCII": "MsRcf ", "Extencao": "  GDB ", "Nome": " VMapSource GPS Waypoint Database"}
+
+4E 41 56 54 52 41 46 46 49 43 ", "CodigoANCII": "NAVTRAFF IC ", "Extencao": "  DAT ", "Nome": " TomTom traffic data file"}
+
+4E 42 2A 00 ", "CodigoANCII": "NB*. ", "Extencao": "  JNT ", JTP ", "Nome": " MS Windows journal file"}
+
+4E 45 53 4D 1A 01 ", "CodigoANCII": "NESM.. ", "Extencao": "  NSF ", "Nome": " NES Sound file"}
+
+4E 49 54 46 30 ", "CodigoANCII": "NITF0 ", "Extencao": "  NTF ", "Nome": " National Imagery Transmission Format (NITF) file"}
+
+4E 61 6D 65 3A 20", "Extencao":   Name: ", "Extencao": "  COD ", "Nome": " Agent newsreader character map file"}
+
+4F 50 43 4C 44 41 54 ", "CodigoANCII": "OPCLDAT ", "Extencao": "  attachment ", "Nome": " 1Password 4 Cloud Keychain encrypted attachment"}
+
+4F 50 4C 44 61 74 61 62 61 73 65 46 69 6C 65 ", "CodigoANCII": "OPLDatab aseFile ", "Extencao": "  DBF ", "Nome": " Psion Series 3 Database file"}
+
+4F 67 67 53 00 02 00 00 00 00 00 00 00 00 ", "CodigoANCII": "OggS.... ...... ", "Extencao": "  OGA ", OGG ", OGV ", OGX ", "Nome": " Ogg Vorbis Codec compressed Multimedia file"}
+
+4F 7B", "Extencao":   O{ ", "Extencao": "  DW4 ", "Nome": " Visio/DisplayWrite 4 text file (unconfirmed)"}
+
+50 00 00 00 20 00 00 00", "CodigoANCII": "P... ... ", "Extencao": "  IDX", "Nome":  Quicken QuickFinder Information File"}
+
+50 35 0A ", "CodigoANCII": "P5. ", "Extencao": "  PGM ", "Nome": " Portable Graymap Graphic"}
+
+50 41 43 4B ", "CodigoANCII": "PACK ", "Extencao": "  PAK ", "Nome": " Quake archive file"}
+
+50 41 47 45 44 55 36 34 ", "CodigoANCII": "PAGEDU64 ", "Extencao": "  DMP ", "Nome": " Windows 64-bit memory dump"}
+
+50 41 47 45 44 55 4D 50 ", "CodigoANCII": "PAGEDUMP ", "Extencao": "  DMP ", "Nome": " Windows memory dump"}
+
+50 41 58 ", "CodigoANCII": "PAX ", "Extencao": "  PAX ", "Nome": " PAX password protected bitmap"}
+
+50 45 53 54 ", "CodigoANCII": "PEST ", "Extencao": "  DAT ", "Nome": " PestPatrol data/scan strings"}
+
+50 47 50 64 4D 41 49 4E ", "CodigoANCII": "PGPdMAIN ", "Extencao": "  PGD", "Nome":  PGP disk image"}
+
+50 49 43 54 00 08 ", "CodigoANCII": "PICT.. ", "Extencao": "  IMG ", "Nome": " ADEX Corp. ChromaGraph Graphics Card Bitmap Graphic file"}
+
+50 4B 03 04 ", "CodigoANCII": "PK.. ", "Extencao": "  ZIP ", "Nome": " PKZIP archive file"} 
+
+50 4B 03 04 0A 00 02 00 ", "CodigoANCII": "PK......", "Extencao": "  >EPUB ", "Nome": " Open Publication Structure eBook file. (Should also include the string mimetypeapplication/epub+zip"}
+
+50 4B 03 04 14 00 01 00 63 00 00 00 00 00 ", "CodigoANCII": "PK...... c.....", "Extencao": "  >ZIP ", "Nome": " ZLock Pro encrypted ZIP"}
+
+50 4B 03 04 14 00 06 00 ", "CodigoANCII": "PK...... ", "Extencao": "  DOCX ", PPTX ", XLSX ", "Nome": " Microsoft Office Open XML Format (OOXML) Document There is no subheader for MS OOXML files as there is with DOC ", PPT ", and XLS files. To better understand the format of these files ", rename any OOXML file to have a .ZIP extension and then unZIP the file; look at the resultant file named  [Content_Types].xml to see the content types. In particular ", look for the   Override PartName= tag ", where you will find  word ",  ppt ", or  xl ", respectively."} 
+
+50 4B 05 06", "CodigoANCII":PK..", "followed by 18 additional bytes at the end of the file."}
+
+50 4B 03 04 14 00 08 00 08 00 ", "CodigoANCII": "PK...... .. ", "Extencao": "  JAR ", "Nome": " Java archive"}
+
+50 4B 05 06 ", "CodigoANCII": "PK.."}
+50 4B 07 08 ", "CodigoANCII": "PK.. ", "Extencao": "  ZIP ", "Nome": " PKZIP empty and multivolume archive file ", respectively"}
+
+[30 byte offset] 50 4B 4C 49 54 45 ", "CodigoANCII": "[30 byte offset] PKLITE ", "Extencao": "  ZIP ", "Nome": " PKLITE compressed ZIP archive (see also PKZIP)"}
+
+[526 byte offset] 50 4B 53 70 58 ", "CodigoANCII": "[526 byte offset] PKSFX ", "Extencao": "  ZIP", "Nome":  PKSFX self-extracting executable compressed file (see also PKZIP)"}
+
+50 4D 43 43 ", "CodigoANCII": "PMCC", "Extencao":   GRP ", "Nome": " Windows Program Manager group file"}
+
+50 4E 43 49 55 4E 44 4F ", "CodigoANCII": "PNCIUNDO ", "Extencao": "  DAT ", "Nome": " Norton Disk Doctor undo file"}
+
+50 4D 4F 43 43 4D 4F 43 ", "CodigoANCII": "PMOCCMOC ", "Extencao": "  DAT ", "Nome": " Microsoft® Windows® User State Migration Tool (USMT). USMT 3.0  applies to Windows XP and Windows Vista , USMT 4.0  is for Windows 7."}
+
+50 55 46 58 ", "CodigoANCII": "PUFX ", "Extencao": "  PUF ", "Nome": "Puffer  encrypted archive"}
+
+51 45 4C 20 ", "CodigoANCII": "[92 byte offset] QEL ", "Extencao": "  QEL", "Nome":  Quicken data file"}
+
+51 46 49 FB ", "CodigoANCII": "QFIû ", "Extencao": "  IMG ", "Nome": " QEMU Qcow Disk Image"}
+
+51 57 20 56 65 72 2E 20 ", "CodigoANCII": "QW Ver. ", "Extencao": "  ABD ", QSD ", "Nome": " Quicken data file"}
+
+52 41 5A 41 54 44 42 31 ", "CodigoANCII": "RAZATDB1 ", "Extencao": "  DAT ", "Nome": " Shareaza (Windows P2P client) thumbnail"}
+
+52 45 47 45 44 49 54 ", "CodigoANCII": "REGEDIT ", "Extencao": "  REG ", SUD ", "Nome": " Windows NT Registry and Registry Undo files"}
+
+52 45 56 4E 55 4D 3A 2C", "Nome": "REVNUM: ", ", "Extencao": "  ADF", "Nome":  Antenna data file"}
+
+52 49 46 46 ", "CodigoANCII": "RIFF ", "Extencao": "  ANI ", "Nome": " Windows animated cursor ", "Extencao": "  >CMX ", "Nome": " Corel Presentation Exchange (Corel 10 CMX) Metafile ", "Extencao": "  >CDR ", "Nome": " CorelDraw document ", "Extencao": "  >DAT ", "Nome": " Video CD MPEG or MPEG1 movie file"}
+
+52 49 46 46 xx xx xx xx 41 56 49 20 4C 49 53 54 ", "CodigoANCII": "RIFF.... AVI LIST ", "Extencao": "  AVI ", "Nome": " Resource Interchange File Format -- Windows Audio Video Interleave file  ", where  xx xx xx xx is the file size (little endian)"}
+
+52 49 46 46 xx xx xx xx 43 44 44 41 66 6D 74 20 ", "CodigoANCII": "RIFF.... CDDAfmt ", "Extencao": "  CDA ", "Nome": " Resource Interchange File Format -- Compact Disc Digital Audio (CD-DA) file ", where  xx xx xx xx is the file size (little endian)"}
+
+52 49 46 46 xx xx xx xx 51 4C 43 4D 66 6D 74 20 ", "CodigoANCII": "RIFF.... QLCMfmt ", "Extencao": "  QCP ", "Nome": " Resource Interchange File Format -- Qualcomm PureVoice ", where  xx xx xx xx is the file size (little endian)"}
+
+52 49 46 46 xx xx xx xx 52 4D 49 44 64 61 74 61 ", "CodigoANCII": "RIFF.... RMIDdata ", "Extencao": "  RMI ", "Nome": " Resource Interchange File Format --  Windows Musical Instrument Digital Interface file  ", where  xx xx xx xx is the file size (little endian)"}
+
+52 49 46 46 xx xx xx xx 57 41 56 45 66 6D 74 20 ", "CodigoANCII": "RIFF.... WAVEfmt ", "Extencao": "  WAV ", "Nome": " Resource Interchange File Format -- Audio for Windows file  ", where  xx xx xx xx is the file size (little endian)"}
+
+52 54 53 53 ", "CodigoANCII": "RTSS ", "Extencao": "  CAP ", "Nome": " Windows NT Netmon capture file"}
+
+52 61 72 21 1A 07 00 ", "CodigoANCII": "Rar!... ", "Extencao": "  RAR ", "Nome": " RAR (v4.x) compressed archive file"}
+
+52 61 72 21 1A 07 01 00 ", "CodigoANCII": "Rar!.... ", "Extencao": "  RAR ", "Nome": "RAR (v5)  compressed archive file"}
+
+52 65 74 75 72 6E 2D 50 61 74 68 3A 20 ", "CodigoANCII": "Return-P ath: ", "Extencao": "  EML ", "Nome": " A commmon file header for e-mail files."}
+
+53 43 43 41 ", "CodigoANCII": "[4 byte offset] SCCA ", "Extencao": "  PF ", "Nome": " Windows prefetch file"}
+
+53 43 48 6C ", "CodigoANCII": "SCHl ", "Extencao": "  AST ", "Nome": " Need for Speed: "Underground Audio file"}
+
+53 43 4D 49 ", "CodigoANCII": "SCMI ", "Extencao": "  IMG ", "Nome": " Img Software Set Bitmap"}
+
+53 44 50 58 ", "CodigoANCII": "SDPX ", "Extencao": "  DPX ", "Nome": " Society of Motion Picture and Television Engineers (SMPTE) Digital Picture Exchange (DPX) image file (big endian)"}
+
+53 48 4F 57 ", "CodigoANCII": "SHOW ", "Extencao": "  SHW ", "Nome": " Harvard Graphics DOS Ver. 2/x Presentation file"}
+
+53 49 45 54 52 4F 4E 49 43 53 20 58 52 44 20 53 43 41 4E ", "CodigoANCII": "SIETRONI CS XRD S CAN ", "Extencao": "  CPI ", "Nome": " Sietronics CPI XRD document"}
+
+53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 54", "CodigoANCII": "SIMPLE   =                      T ", "Extencao": "  FITS ", "Nome": "Flexible Image Transport System (FITS), Version 3.0  file"}
+
+53 49 54 21 00 ", "CodigoANCII": "SIT!. ", "Extencao": "  SIT ", "Nome": " StuffIt compressed archive"}
+
+53 4D 41 52 54 44 52 57 ", "CodigoANCII": "SMARTDRW ", "Extencao": "  SDR ", "Nome": " SmartDraw Drawing file"}
+
+53 50 46 49 00 ", "CodigoANCII": "SPFI. ", "Extencao": "  SPF ", "Nome": " StorageCraft ShadownProtect backup file"}
+
+53 50 56 42 ", "CodigoANCII": "SPVB ", "Extencao": "  SPVCHAIN ", "Nome": " MultiBit Bitcoin blockchain file"}
+
+53 51 4C 4F 43 4F 4E 56 48 44 00 00 31 2E 30 00 ", "CodigoANCII": "SQLOCONV HD..1.0. ", "Extencao": "  CNV ", "Nome": " DB2 conversion file"}
+
+53 51 4C 69 74 65 20 66 6F 72 6D 61 74 20 33 00 ", "CodigoANCII": "SQLite f ormat 3. ", "Extencao": "  DB ", "Nome": " SQLite database file"}
+
+53 5A 20 88 F0 27 33 D1 ", "CodigoANCII": "SZ ˆð'3Ñ ", "Extencao": "  n/a ", "Nome": " QBASIC SZDD file header variant. (See the SZDD or KWAJ format entries for additional information.)"}
+
+53 5A 44 44 88 F0 27 33 ", "CodigoANCII": "SZDDˆð'3 ", "Extencao": "  n/a ", "Nome": " SZDD file format used by DOS  COMPRESS.EXE and EXPAND.EXE commands. This command compresses a single file ", replacing the last character in the file name with an underscore or dollar sign ", e.g. ", FOO.BAZ  would be renamed FOO.BA_  or FOO.BA$ . SZDD/KWAJ  page for more information.)"}
+
+53 6D 62 6C ", "CodigoANCII": "Smbl ", "Extencao": "  SYM ", "Nome": " (Unconfirmed file type. Likely type is Harvard Graphics Version 2.x graphic symbol or Windows SDK graphic symbol)"}
+
+53 74 75 66 66 49 74 20 28 63 29 31 39 39 37 2D ", "CodigoANCII": "StuffIt  (c)1997- ", "Extencao": "  SIT ", "Nome": " StuffIt compressed archive"}
+
+53 75 70 65 72 43 61 6C 63 ", "CodigoANCII": "SuperCal c ", "Extencao": "  CAL ", "Nome": " SuperCalc worksheet"}
+
+54 48 50 00 ", "CodigoANCII": "THP. ", "Extencao": "  THP ", "Nome": "Wii/GameCube video  file"}
+
+54 68 69 73 20 69 73 20 ", "CodigoANCII": "This is ", "Extencao": "  INFO ", "Nome": " UNIX GNU Info Reader File"}
+
+55 43 45 58 ", "CodigoANCII": "UCEX ", "Extencao": "  UCE ", "Nome": " Unicode extensions"}
+
+55 46 41 C6 D2 C1 ", "CodigoANCII": "UFAÆÒÁ ", "Extencao": "  UFA ", "Nome": " UFA compressed archive"}
+
+55 46 4F 4F 72 62 69 74 ", "CodigoANCII": "UFOOrbit ", "Extencao": "  DAT ", "Nome": " UFO Capture v2 map file"}
+
+56 43 50 43 48 30 ", "CodigoANCII": "VCPCH0 ", "Extencao": "  PCH", "Nome":  Visual C PreCompiled header file"}
+
+56 45 52 53 49 4F 4E 20 ", "CodigoANCII": "VERSION ", "Extencao": "  CTL ", "Nome": " Visual Basic User-defined Control file"}
+
+56 65 72 73 69 6F 6E 20 ", "CodigoANCII": "Version ", "Extencao": "  MIF ", "Nome": " MapInfo Interchange Format file"}
+
+57 4D 4D 50 ", "CodigoANCII": "WMMP ", "Extencao": "  DAT ", "Nome": " Walkman MP3 container file"}
+
+57 53 32 30 30 30 ", "CodigoANCII": "WS2000 ", "Extencao": "  WS2 ", "Nome": " WordStar for Windows Ver. 2 document"}
+
+[29 ",152 byte offset] 57 69 6E 5A 69 70 ", "CodigoANCII": "[29 ",152 byte offset] WinZip ", "Extencao": "  ZIP ", "Nome": " WinZip compressed archive"}
+
+57 6F 72 64 50 72 6F ", "CodigoANCII": "WordPro ", "Extencao": "  LWP ", "Nome": " Lotus WordPro document."}
+
+58 2D ", "CodigoANCII": "X- ", "Extencao": "  EML ", "Nome": " A commmon file extension for e-mail files. This variant is for Exchange."}
+
+58 43 50 00 ", "CodigoANCII": "XCP. ", "Extencao": "  CAP ", "Nome": " Cinco NetXRay ", Network General Sniffer ", and Network Associates Sniffer capture file"}
+
+58 50 43 4F 4D 0A 54 79 70 65 4C 69 62 ", "CodigoANCII": "XPCOM.Ty peLib ", "Extencao": "  XPT ", "Nome": " XPCOM type libraries for the XPIDL compiler"}
+
+58 50 44 53 ", "CodigoANCII": "XPDS ", "Extencao": "  DPX ", "Nome": " Society of Motion Picture and Television Engineers (SMPTE) Digital Picture Exchange (DPX) image file (little endian)"}
+
+58 54 ", "CodigoANCII": "XT.. ", "Extencao": "  BDR ", "Nome": " MS Publisher border"}
+
+5A 4F 4F 20 ", "CodigoANCII": "ZOO ", "Extencao": "  ZOO ", "Nome": " ZOO compressed archive"}
+
+5A 57 53 ", "CodigoANCII": "ZWS ", "Extencao": "  SWF ", "Nome": " Macromedia Shockwave Flash player file (LZMA compressed ", SWF 13 and later).SWF File Format Specification "}
+
+5B 47 65 6E 65 72 61 6C 5D 0D 0A 44 69 73 70 6C 61 79 20 4E 61 6D 65 3D 3C 44 69 73 70 6C 61 79 4E 61 6D 65 ", "Nome": "General ]..Displ ay Name=  Display Name ", "Extencao": "  ECF ", "Nome": " MS Exchange 2007 extended configuration file"}
+
+5B 4D 53 56 43 ", "CodigoANCII": "[MSVC ", "Extencao": "  VCW ", "Nome": " Microsoft Visual C++ Workbench Information File"}
+
+5B 50 68 6F 6E 65 5D ", "CodigoANCII": "[Phone] ", "Extencao": "  DUN ", "Nome": " Dial-up networking file"}
+
+5B 56 45 52 5D ", "Extencao": "  SAM ", "Nome": " Lotus AMI Pro document"}
+
+5B 76 65 72 5D ", "Extencao": "  SAM ", "Nome": " Lotus AMI Pro document"}
+
+5B 56 4D 44 5D  "Nome": "[VMD] ", "Extencao": "  VMD ", "Nome": " VocalTec VoIP media file"}
+
+5B 56 65 72 73 69 6F 6E ", "CodigoANCII": "[2 byte offset] [Version ", "Extencao": "  CIF ", "Nome": " (Unknown file type)"}
+
+5B 57 69 6E 64 6F 77 73 20 4C 61 74 69 6E 20 ", "CodigoANCII": "[Windows   Latin ", "Extencao": "  CPX ", "Nome": " Microsoft Code Page Translation file"}
+
+5B 66 6C 74 73 69 6D 2E 30 5D ", "CodigoANCII": "[fltsim. 0] ", "Extencao": "  CFG ", "Nome": " Flight Simulator Aircraft Configuration file"}
+
+5B 70 6C 61 79 6C 69 73 74 5D ", "CodigoANCII": "[playlis t] ", "Extencao": "  PLS ", "Nome": " WinAmp Playlist file"}
+
+5D FC C8 00 ", "CodigoANCII": "]üÈ. ", "Extencao": "  HUS ", "Nome": " Husqvarna Designer I Embroidery Machine file"}
+
+5F 27 A8 89 ", "CodigoANCII": "_'¨‰ ", "Extencao": "  JAR ", "Nome": " Jar archive"}
+
+5F 43 41 53 45 5F ", "CodigoANCII": "_CASE_ ", "Extencao": "  CAS ", CBK ", "Nome": " EnCase case file (and backup)"}
+
+60 EA ", "CodigoANCII": "`ê ", "Extencao": "  ARJ ", "Nome": " Compressed archive file"}
+
+62 65 67 69 6E ", "CodigoANCII": "begin ", "Extencao": "  n/a ", "Nome": " UUencoded files start with a string: "   begin  mode path where  mode is the set of permissions as used in Linux/Unix and  path is the name given to the decoded file. uuencode  page for more information.)"}
+
+62 65 67 69 6E 2D 62 61 73 65 36 34 ", "CodigoANCII": "begin-ba se64 ", "Extencao": "  b64 ", "Nome": " UUencoded BASE64 file  0A 3D 3D 3D 3D 0A", "CodigoANCII":.====. )"}
+
+62 70 6C 69 73 74 ", "CodigoANCII": "bplist ", "Extencao": "  plist ", "Nome": " Binary property list (plist) (NOTE: "Next two bytes are the version number ", currently 0x30-30 ", or "00")"}
+
+63 61 66 66", "CodigoANCII": "caff ", "Extencao": "  CAF ", "Nome": "Apple Core Audio File "}
+
+63 6F 6E 65 63 74 69 78", "CodigoANCII": "conectix ", "Extencao": "  VHD ", "Nome": " Virtual PC Virtual HD image"}
+
+63 75 73 68 00 00 00 02 00 00 00 ", "CodigoANCII": "cush.... ... ", "Extencao": "  CSH ", "Nome": " Photoshop Custom Shape"}
+
+64 00 00 00 ", "CodigoANCII": "d... ", "Extencao": "  P10 ", "Nome": " Intel PROset/Wireless Profile"}
+
+64 65 78 0A ", "CodigoANCII": "dex. ", "Extencao": "  dex ", "Nome": " Dalvik executable file (Android)"}
+
+64 6E 73 2E ", "CodigoANCII": "dns. ", "Extencao": "  AU ", "Nome": " Audacity audio file"}
+
+64 73 77 66 69 6C 65 ", "CodigoANCII": "dswfile ", "Extencao": "  DSW ", "Nome": " Microsoft Visual Studio workspace file"}
+
+66 49 00 00 ", "CodigoANCII": "fI.. ", "Extencao": "  SHD ", "Nome": " Windows NT printer spool file"}
+
+66 4C 61 43 00 00 00 22 ", "CodigoANCII": "fLaC..." ", "Extencao": "  FLAC ", "Nome": " Free Lossless Audio Codec file"}
+
+66 74 79 70 33 67 70 35 ", "CodigoANCII": "[4 byte offset] ftyp3gp5 ", "Extencao": "  MP4 ", "Nome": " MPEG-4 video files"}
+
+66 74 79 70 4D 34 41 20 ", "CodigoANCII": "[4 byte offset] ftypM4A ", "Extencao": "  M4A ", "Nome": " Apple Lossless Audio Codec file"}
+
+66 74 79 70 4D 53 4E 56 ", "CodigoANCII": "[4 byte offset] ftypMSNV ", "Extencao": "  MP4 ", "Nome": " MPEG-4 video file"}
+
+66 74 79 70 69 73 6F 6D ", "CodigoANCII": "[4 byte offset] ftypisom ", "Extencao": "  MP4 ", "Nome": " ISO Base Media file (MPEG-4) v1"}
+
+66 74 79 70 6D 70 34 32 ", "CodigoANCII": "[4 byte offset] ftypmp42 ", "Extencao": "  M4V ", "Nome": " MPEG-4 video|QuickTime file"}
+
+66 74 79 70 71 74 20 20 ", "CodigoANCII": "[4 byte offset] ftypqt  ", "Extencao": "  MOV ", "Nome": " QuickTime movie file"}
+
+67 49 00 00 ", "CodigoANCII": "gI.. ", "Extencao": "  SHD ", "Nome": " Windows 2000/XP printer spool file"}
+
+67 69 6d 70 20 78 63 66 20 ", "CodigoANCII": "gimp xcf  ", "Extencao": "  XCF ", "Nome": " GNU Image Manipulation Program (GIMP) eXperimental Computing Facility (XCF) image file"}
+
+68 49 00 00 ", "CodigoANCII": "hI.. ", "Extencao": "  SHD ", "Nome": " Windows Server 2003 printer spool file"}
+
+6C 33 33 6C ", "CodigoANCII": "l33l ", "Extencao": "  DBB ", "Nome": " Skype user data file (profile and contacts)"}
+
+[4 byte offset] 6D 6F 6F 76 ", "Nome": "[4 byte offset] moov ", "Extencao": "  MOV ", "Nome": " QuickTime movie file"}
+
+6D 75 6C 74 69 42 69 74 2E 69 6E 66 6F ", "CodigoANCII": "multiBit .info ", "Extencao": "  INFO ", "Nome": " MultiBit Bitcoin wallet information file"}
+
+6F 3C ", "CodigoANCII": "o  ", "Extencao": "  n/a ", "Nome": " Short Message Service (SMS) ", or text ", message stored on a Subscriber Identification Module (SIM)."}
+
+6F 70 64 61 74 61 30 31 ", "CodigoANCII": "opdata01 ", "Extencao": "  n/a ", "Nome": " 1Password 4 Cloud Keychain encrypted data"}
+72 65 67 66 ", "CodigoANCII": "regf ", "Extencao": "  DAT ", "Nome": " Windows NT registry hive file"}
+72 69 66 66 ", "CodigoANCII": "riff ", "Extencao": "  ACD ", "Nome": " Sonic Foundry Acid Music File (Sony)"}
+72 74 73 70 3A 2F 2F ", "CodigoANCII": "rtsp:// ", "Extencao": "  RAM ", "Nome": " RealMedia metafile"}
+73 6C 68 21 "Nome": "slh!"
+73 6C 68 2E ", "CodigoANCII": "slh. ", "Extencao": "  DAT ", "Nome": " Allegro Generic Packfile Data file (0x21 = compressed ", 0x2E = uncompressed)"}
+73 6D 5F", "Extencao":   sm_ ", "Extencao": "  PDB ", "Nome": " PalmOS SuperMemo file"}
+73 72 63 64 6F 63 69 64 3A ", "CodigoANCII": "srcdocid : ", "Extencao": "  CAL ", "Nome": " CALS raster bitmap file"}
+73 7A 65 7A ", "CodigoANCII": "szez ", "Extencao": "  PDB ", "Nome": " PowerBASIC Debugger Symbols file"}
+74 42 4D 50 4B 6E 57 72 ", "CodigoANCII": " tBMPKnWr ", "Extencao": "  PRC", "Nome": "PathWay Map file ", used with GPS devices"}
+75 73 74 61 72 ", "CodigoANCII": " ustar ", "Extencao": "  TAR ", "Nome": " Tape Archive file"}
+76 2F 31 01 ", "CodigoANCII": "v/1. ", "Extencao": "  EXR ", "Nome": " OpenEXR bitmap image format"}
+76 32 30 30 33 2E 31 30 0D 0A 30 0D 0A ", "CodigoANCII": "v2003.10 ..0.. ", "Extencao": "  FLT ", "Nome": " Qimage filter"}
+78 01 73 0D 62 62 60 ", "CodigoANCII": "x.s.bb` ", "Extencao": "  DMG ", "Nome": " Mac OS X Disk Copy Disk Image file "}
+78 61 72 21 ", "CodigoANCII": "xar! ", "Extencao": "  XAR ", "Nome": "eXtensible ARchive  file "}
+7A 62 65 78 ", "CodigoANCII": "zbex ", "Extencao": "  INFO ", "Nome": " ZoomBrowser Image Index file (ZbThumbnal.info)"}
+7B 0D 0A 6F 20 ", "CodigoANCII": "{..o  ", "Extencao": "  LGC ", LGD ", "Nome": " Windows application log"}
+7B 5C 70 77 69 ", "CodigoANCII": "{\pwi ", "Extencao": "  PWI ", "Nome": " Microsoft Windows Mobile personal note file"}
+7B 5C 72 74 66 31 ", "CodigoANCII": "{\rtf1 ", "Extencao": "  RTF ", "Nome": " Rich text format word processing file  :: =+ 5C 70 61 72 20 7D 7D"}
+7C 4B C3 74 E1 C8 53 A4 79 B9 01 1D FC 4F DD 13 ", "CodigoANCII": "|KÃtáÈS¤ y¹..üOÝ. ", "Extencao": "  CSD ", "Nome": " Huskygram ", Poem ", or Singer embroidery design file"}
+7E 42 4B 00 ", "CodigoANCII": "~BK. ", "Extencao": "  PSP ", "Nome": " Corel Paint Shop Pro image file"}
+7E 74 2C 01 50 70 02 4D 52 01 00 00 00 08 00 00 00 01 00 00 31 00 00 00 31 00 00 00 43 01 FF 00 01 00 08 00 01 00 00 00 7e 74 2c 01 ", "CodigoANCII": "~t ",.Pp.M R....... ....1... 1...C.ÿ. ........ ~t ",. ", "Extencao": "  IMG ", "Nome": " Reportedly a proprietary recording system ", possibly a Digital Watchdog DW-TP-500G unit."}
+7F 45 4C 46 ", "CodigoANCII": ".ELF ", "Extencao": "  n/a ", "Nome": "Executable and Linking Format executable file (Linux/Unix) "}
+80 ", "CodigoANCII": ". ", "Extencao": "  OBJ ", "Nome": " Relocatable object code"}
+80 00 00 20 03 12 04 ", "CodigoANCII": "....... ", "Extencao": "  ADX ", "Nome": " Dreamcast audio file"}
+80 2A 5F D7 ", "CodigoANCII": ".*_. ", "Extencao": "  CIN ", "Nome": " Kodak Cineon image file"}
+81 32 84 C1 85 05 D0 11 B2 90 00 AA 00 3C F6 76 ", "CodigoANCII": ".2„Á….Ð. ²..ª. öv ", "Extencao": "  WAB ", "Nome": " Outlook Express address book (Win95)"}
+81 CD AB ", "CodigoANCII": ".Í« ", "Extencao": "  WPF ", "Nome": " WordPerfect text file"}
+86 DD 6x ", "CodigoANCII": "†Ý ", "Extencao": "  n/a ", "Nome": " Possibly ", maybe ", might be a fragment of an Ethernet frame carrying an IPv6 packet.Hints About Looking for Network Packet Fragments "}
+89 50 4E 47 0D 0A 1A 0A ", "CodigoANCII": "‰PNG.... ", "Extencao": "  PNG ", "Nome": "Portable Network Graphics file  <b>Trailer:</b> 49 45 4E 44 AE 42 60 82", "CodigoANCII":IEND®B`‚ <font face="courier">... )"}
+8A 01 09 00 00 00 E1 08 00 00 99 19 ", "CodigoANCII": "Š.....á. ..™. ", "Extencao": "  AW ", "Nome": " MS Answer Wizard file"}
+
+91 33 48 46 ", "CodigoANCII": "‘3HF ", "Extencao": "  HAP ", "Nome": " Hamarsoft HAP 3.x compressed archive"}
+
+95 00  "Nome": ""}
+95 01 ", "CodigoANCII": "•. ", "Extencao": "  SKR ", "Nome": " PGP secret keyring file"}
+
+97 4A 42 32 0D 0A 1A 0A ", "CodigoANCII": "—JB2.... ", "Extencao": "  JB2 ", "Nome": " JBOG2 image file. <b>Trailer:</b> 03 33 00 01 00 00 00 00", "CodigoANCII":.3...... )"}
+
+99 ", "CodigoANCII": "™ ", "Extencao": "  GPG ", "Nome": " GNU Privacy Guard (GPG) public keyring"}
+
+99 01 ", "CodigoANCII": "™. ", "Extencao": "  PKR ", "Nome": " PGP public keyring file"}
+
+9C CB CB 8D 13 75 D2 11 91 58 00 C0 4F 79 56 A4 ", "CodigoANCII": "œËË..UÒ. ‘X.ÀOyV¤ ", "Extencao": "  WAB ", "Nome": " Outlook address file"}
+
+A0 46 1D F0 ", "Nome": 512 byte offset]  F.ð ", "Extencao": "  PPT ", "Nome": " PowerPoint presentation subheader (MS Office)"}
+
+A1 B2 C3 D4 ", "CodigoANCII": "¡²ÃÔ ", "Extencao": "  n/a ", "Nome": " tcpdump (libpcap) capture file (Linux/Unix)"}
+
+A1 B2 CD 34 ", "CodigoANCII": "¡²Í4 ", "Extencao": "  n/a ", "Nome": " Extended tcpdump (libpcap) capture file (Linux/Unix)"}
+
+A9 0D 00 00 00 00 00 00 ", "CodigoANCII": "©....... ", "Extencao": "  DAT ", "Nome": " Access Data FTK evidence file"}
+
+AC 9E BD 8F 00 00 ", "CodigoANCII": "¬.½... ", "Extencao": "  QDF ", "Nome": " Quicken data file"}
+
+AC ED ", "CodigoANCII": "¬í ", "Extencao": "  n/a", "Nome":  Java serialization data. Object Serialization Stream Protocol )"}
+
+AC ED 00 05 73 72 00 12 62 67 62 6C 69 74 7A 2E ", "CodigoANCII": "¬í..sr.. bgblitz. ", "Extencao": "  PDB ", "Nome": " BGBlitz (professional Backgammon software) position database file"}
+
+B0 4D 46 43 ", "CodigoANCII": "°MFC ", "Extencao": "  PWL ", "Nome": " Windows 95 password file"}
+
+B1 68 DE 3A ", "CodigoANCII": "±hÞ: ", "Extencao": "  DCX", "Nome":  Graphics Multipage PCX bitmap file"}
+
+B4 6E 68 44 ", "CodigoANCII": "´nhd ", "Extencao": "  TIB ", "Nome": " Acronis True Image file"}
+B5 A2 B0 B3 B3 B0 A5 B5 ", "CodigoANCII": "µ¢°³³°¥µ ", "Extencao": "  CAL ", "Nome": " Windows calendar file"}
+BE 00 00 00 AB 00 00 00 00 00 00 00 00 ", "CodigoANCII": "¾...«... .... ", "Extencao": "  WRI ", "Nome": " MS Write file"}
+BE BA FE CA 0F 50 61 6C 6D 53 47 20 44 61 74 61 ", "CodigoANCII": "¾ºþÊ.Pal mSG Data ", "Extencao": "  DAT ", "Nome": " Palm Desktop DateBook file"}
+C3 AB CD AB ", "CodigoANCII": "Ã«Í« ", "Extencao": "  ACS ", "Nome": " MS Agent Character file"}
+C5 D0 D3 C6 ", "CodigoANCII": "ÅÐÓÆ ", "Extencao": "  EPS ", "Nome": " Adobe encapsulated PostScript file"}
+C8 00 79 00 ", "CodigoANCII": "È.y. ", "Extencao": "  LBK ", "Nome": " Jeppesen FliteLog file"}
+CA FE BA BE ", "CodigoANCII": "Êþº¾ ", "Extencao": "  CLASS ", "Nome": " Java bytecode file (also used by Apple iOS apps)"}
+CD 20 AA AA 02 00 00 00 ", "CodigoANCII": "Í ªª.... ", "Extencao": "  n/a ", "Nome": " Norton Anti-Virus quarantined virus file"}
+CE CE CE CE ", "CodigoANCII": "ÎÎÎÎ ", "Extencao": "  JCEKS ", "Nome": "Java Cryptography Extension keystore  file"}
+CE FA ED FE ", "CodigoANCII": "Îúíþ ", "Extencao": "  n/a ", "Nome": " Apple OS X ABI Mach-O  binary file (32-bit ", where target system has reverse byte ordering from host running compiler)"}
+CF 11 E0 A1 B1 1A E1 00 ", "CodigoANCII": "Ï.à¡±.á. ", "Extencao": "  DOC ", "Nome": " Perfect Office document [Note similarity to MS Office header ", below]"}
+CF AD 12 FE ", "CodigoANCII": "Ï­.þ ", "Extencao": "  DBX ", "Nome": " Outlook Express e-mail folder"}
+CF FA ED FE ", "CodigoANCII": "Ïúíþ ", "Extencao": "  n/a ", "Nome": " Apple OS X ABI Mach-O  binary file (64-bit ", where target system has reverse byte ordering from host running compiler)"}
+D0 CF 11 E0 A1 B1 1A E1 ", "CodigoANCII": "ÐÏ.à¡±.á ", "Extencao": " DOC, DOT, PPS, XLA, XLS, WIZ" , "Nome": " An Object Linking and Embedding (OLE) Compound File (CF) (i.e. ", "OLECF ) file format ", known as  Compound Binary File format by Microsoft ", used by Microsoft Office 97-2003 applications (Word ", Powerpoint ", Excel ", Wizard). [See also Word ", Powerpoint ", and Excel "subheaders" at byte offset 512. There appear to several subheader formats and a dearth of documentation. There have been reports that there are different subheaders for Windows and Mac versions of MS Office but I cannot confirm that.]  [Note the similarity between D0 CF 11 E0 and the word "docfile"!] ", "Extencao": "  >AC_ ", "Nome": " CaseWare Working Papers compressed client file ", "Extencao": "  >ADP ", "Nome": " Access project file ", "Extencao": "  >APR ", "Nome": " Lotus/IBM Approach 97 file ", "Extencao": "  >DB ", "Nome": " MSWorks database file ", "Extencao": "  >MSC ", "Nome": " Microsoft Common Console Document ", "Extencao": "  >MSI ", "Nome": " Microsoft Installer package ", "Extencao": "  >MTW ", "Nome": " Minitab data file ", "Extencao": "  >OPT ", "Nome": " Developer Studio File Workspace Options file ", "Extencao": "  >PUB ", "Nome": " MS Publisher file, QBM, "Nome": " QuickBooks Portable Company File ", "Extencao": "  >RVT ", "Nome": " Revit Project file ", "Extencao": "  >SOU ", "Nome": " Visual Studio Solution User Options file</td> "+\
+SPO ", "Nome": " SPSS output file ", "Extencao": "  >VSD", "Nome":  Visio file ", "Extencao": "  >WPS ", "Nome": " MSWorks text document"}
+D2 0A 00 00 ", "CodigoANCII": "Ò... ", "Extencao": "  FTR ", "Nome": " GN Nettest WinPharoah filter file"}
+D4 2A ", "CodigoANCII": "Ô* ", "Extencao": "  ARL ", AUT ", "Nome": " AOL history (ARL) and typed URL (AUT) files"}
+D4 C3 B2 A1 ", "CodigoANCII": "ÔÃ²¡ ", "Extencao": "PCAP", "Nome": " WinDump (winpcap) capture file (Windows)"}
+D7 CD C6 9A ", "CodigoANCII": "×ÍÆš ", "Extencao": "  WMF ", "Nome": " Windows graphics metafile"}
+DB A5 2D 00 ", "CodigoANCII": "Û¥-. ", "Extencao": "  DOC ", "Nome": " Word 2.0 file"}
+DC DC ", "CodigoANCII": "ÜÜ ", "Extencao": "  CPL ", "Nome": " Corel color palette file"}
+DC FE ", "CodigoANCII": "Üþ ", "Extencao": "  EFX ", "Nome": " eFax file format"}
+E3 10 00 01 00 00 00 00 ", "CodigoANCII": "ã....... ", "Extencao": "  INFO ", "Nome": " Amiga Icon file"}
+E3 82 85 96 ", "CodigoANCII": "ã‚…– ", "Extencao": "  PWL ", "Nome": " Windows 98 password file"}
+E4 52 5C 7B 8C D8 A7 4D AE B1 53 78 D0 29 96 D3 ", "CodigoANCII": "äR\{ŒØ§M ®±SxÐ)–Ó ", "Extencao": "  ONE ", "Nome": " Microsoft OneNote note"}
+E8  "Nome": "è"}
+E9  "Nome": "é"}
+EB ", "CodigoANCII": "ë ", "Extencao": "  COM ", SYS ", "Nome": " Windows executable file"}
+EB 3C 90 2A ", "CodigoANCII": "ë .* ", "Extencao": "  IMG ", "Nome": " GEM Raster file"}
+EB 52 90 2D 46 56 45 2D 46 53 2D ", "CodigoANCII": "ëR.-FVE- FS- ", "Extencao": "  n/a ", "Nome": " Header of boot sector in BitLocker protected volume (Vista)"}
+EB 58 90 2D 46 56 45 2D 46 53 2D ", "CodigoANCII": "ëX.-FVE- FS- ", "Extencao": "  n/a ", "Nome": " Header of boot sector in BitLocker protected volume (Windows 7)"}
+EC A5 C1 00 ", "CodigoANCII": " ì¥Á. ", "Extencao": "  DOC ", "Nome": " Word document subheader (MS Office)"}
+ED AB EE DB ", "CodigoANCII": "í«îÛ ", "Extencao": "  RPM ", "Nome": " RedHat Package Manager file"}
+EF BB BF ", "CodigoANCII": "ï»¿ ", "Extencao": "  n/a ", "Nome": " Byte-order mark (BOM) for 8-bit Unicode Transformation Format (UTF-8) files Unicode Home Page"}
+F0 FF FF ", "CodigoANCII": "ðÿÿ ", "Extencao": "  n/a ", "Nome": " FAT12 File Allocation Table"}
+F8 FF FF FF ", "CodigoANCII": "øÿÿÿ ", "Extencao": "  n/a ", "Nome": " FAT16 File Allocation Table"}
+F8 FF FF 0F FF FF FF 0F ", "CodigoANCII": "øÿÿ.ÿÿÿ. ", "Extencao": "  n/a ", "Nome": " FAT32 File Allocation Table"}
+F8 FF FF 0F FF FF FF FF ", "CodigoANCII": "øÿÿ.ÿÿÿÿ ", "Extencao": "  n/a ", "Nome": " FAT32 File Allocation Table"}
+F9 BE B4 D9 ", "CodigoANCII": "ù¾´Ù ", "Extencao": "  DAT ", "Nome": " Bitcoin-Qt blockchain block file"}
+FD 37 7A 58 5A 00 ", "CodigoANCII": "ý7zXZ.  ", "Extencao": "  XZ ", "Nome": " XZ archive file"}
+FD FF FF FF 02 ", "CodigoANCII": " ýÿÿÿ. ", "Extencao": "  PUB ", "Nome": " MS Publisher file subheader"}
+FD FF FF FF 04 ", "CodigoANCII": " ýÿÿÿ. ", "Extencao": "  QBM ", "Nome": " QuickBooks Portable Company File"}
+FD FF FF FF nn nn 00 00 ", "CodigoANCII": " ýÿÿÿ.... ", "Extencao": "  PPT ", "Nome": " PowerPoint presentation subheader (MS Office)"}
+FD FF FF FF nn 00 ", "CodigoANCII": " ýÿÿÿ.. "}
+FD FF FF FF nn 02 ", "CodigoANCII": " ýÿÿÿ.. ", "Extencao": "  XLS ", "Nome": " Excel spreadsheet subheader (MS Office)"}
+FD FF FF FF 20 00 00 00 ", "CodigoANCII": " ýÿÿÿ ... ", "Extencao": "  OPT ", "Nome": " Developer Studio File Workspace Options subheader (MS Office) ", "Extencao": "  XLS ", "Nome": " Excel spreadsheet subheader (MS Office)"}
+FD FF FF FF xx xx xx xx xx xx xx xx 04 00 00 00 ", "CodigoANCII": " ýÿÿÿ.... ........ ", "Extencao": "  DB ", "Nome": " Thumbs.db subheader (MS Office)"}
+FE ED FA CE ", "CodigoANCII": "þíúÎ ", "Extencao": "  n/a ", "Nome": " Apple OS X ABI Mach-O  binary file (32-bit)"}
+FE ED FA CF ", "CodigoANCII": "þíúÏ ", "Extencao": "  n/a ", "Nome": " Apple OS X ABI Mach-O  binary file (64-bit)"}
+FE ED FE ED ", "CodigoANCII": "þíþí ", "Extencao": "  JKS ", "Nome": "JavaKeyStore file "}
+FE EF ", "CodigoANCII": "þï ", "Extencao": "  GHO ", GHS ", "Nome": " Symantex Ghost image file"}
+FE FF ", "CodigoANCII": "þÿ ", "Extencao": "  n/a ", "Nome": " Byte-order mark (BOM) for 16-bit Unicode Transformation Format/ 2-octet Universal Character Set (UTF-16/UCS-2) ", big-endian files. Unicode Home Page )"}
+FF ", "CodigoANCII": "ÿ ", "Extencao": "  SYS ", "Nome": " Windows executable (SYS) file"}
+FF 00 02 00 04 04 05 54 02 00 ", "CodigoANCII": "ÿ......T .. ", "Extencao": "  WKS ", "Nome": " Works for Windows spreadsheet file"}
+FF 0A 00 ", "CodigoANCII": "ÿ.. ", "Extencao": "  QRP ", "Nome": " QuickReport Report file"}
+FF 46 4F 4E 54 ", "CodigoANCII": "ÿFONT ", "Extencao": "  CPI ", "Nome": " Windows international code page"}
+FF 4B 45 59 42 20 20 20 ", "CodigoANCII": "ÿKEYB   ", "Extencao": "  SYS ", "Nome": " Keyboard driver file"}
+FF 57 50 43 ", "CodigoANCII": "ÿWPC ", "Extencao": "  WP ", WPD ", WPG ", WPP ", WP5 ", WP6 ", "Nome": " WordPerfect text and graphics file"}
+FF D8 FF E0 xx xx 4A 46 49 46 00 ", "CodigoANCII": "ÿØÿà..JF IF. ", "Extencao": "  JFIF ", JPE ", JPEG ", JPG ", "Nome": "JPEG/JFIF graphics file  <b>Trailer:</b> CONT: RELAC++= FF D9", "CodigoANCII":ÿÙ )"}
+FF D8 FF E1 xx xx 45 78 69 66 00 ", "CodigoANCII": "ÿØÿá..Ex if. ", "Extencao": "  JPG ", "Nome": " Digital camera JPG using Exchangeable Image File Format (EXIF)  <b>Trailer:</b> FF D9", "CodigoANCII":ÿÙ ) "Using Extended File Information (EXIF) File Headers in Digital Evidence Analysis"  (P. Alvarez ",  IJDE ",  2</i>(3) ", Winter 2004) and ExifTool Tag Names"}
+FF D8 FF E8 xx xx 53 50 49 46 46 00 ", "CodigoANCII": "ÿØÿè..SP IFF. ", "Extencao": "  JPG ", "Nome": "Still Picture Interchange File Format (SPIFF)  <b>Trailer:</b> FF D9", "CodigoANCII":ÿÙ "}
+FF Ex ", "CodigoANCII": "ÿ. "}
+FF Fx ", "CodigoANCII": "ÿ. ", "Extencao": "  MPEG ", MPG ", MP3 ", "Nome": " MPEG audio file frame synch pattern"}
+FF F1 ", "CodigoANCII": "ÿñ ", "Extencao": "  AAC ", "Nome": " MPEG-4 Advanced Audio Coding (AAC) Low Complexity (LC) audio file"}
+FF F9 ", "CodigoANCII": "ÿù ", "Extencao": "  AAC ", "Nome": " MPEG-2 Advanced Audio Coding (AAC) Low Complexity (LC) audio file"}
+FF FE ", "CodigoANCII": "ÿþ ", "Extencao": "  REG ", "Nome": " Windows Registry file", "Extencao": "  >n/a ", "Nome": " Byte-order mark (BOM) for 16-bit Unicode Transformation Format/ 2-octet Universal Character Set (UTF-16/UCS-2)"}
+FF FE 00 00 ", "CodigoANCII": "ÿþ.. ", "Extencao": "  n/a ", "Nome": " Byte-order mark for 32-bit Unicode Transformation Format/ 4-octet Universal Character Set (UTF-32/UCS-4)"}
+FF FE 23 00 6C 00 69 00 6E 00 65 00 20 00 31 00 ", "CodigoANCII": "ÿþ#.l.i. n.e. .1. ", "Extencao": "  MOF ", "Nome": " Windows MSinfo file"}
+FF FF FF FF ", "CodigoANCII": "ÿÿÿÿ ", "Extencao": "  SYS ", "Nome": " DOS system driver"}
